@@ -1,6 +1,8 @@
 This is a negative probability calculator.\
 You will need Python and Tkinter to run this.
 
+To run the applet, run negprob.pyw. Running sample.py will do nothing. 
+
 # Explanation
 Mathematically, probability can be negative.\
 However, there is no real physical interpretation of this, like with negative counts.
