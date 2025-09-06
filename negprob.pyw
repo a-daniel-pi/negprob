@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # This file renders the UI
 
 import tkinter
